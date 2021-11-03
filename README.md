@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @utkged
 - 👀 I’m interested in data and insight analysis, digital marketing and strategic planning.
-- 🌱 I’m currently learning data science, and the programs of Python and JS.
+- 🌱 I’m currently learning Python and participating in Google Data Analytics Professional Certificate Program.
 - 📫 you can reach out me from Instagram: @utkged
 
 <!---
